@@ -9,3 +9,6 @@
 * 本地文件链接
 
     [手机端gpu和cpu内存](手机端gpu和cpu内存.md)
+* 文件下载
+
+    <a href="/image/test.png" target="_blank">图片下载</a>

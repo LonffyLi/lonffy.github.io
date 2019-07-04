@@ -1,3 +1,5 @@
+#### ubuntu config
+```
 export JDK_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 export MIUICAMERA_BUILDER_HOME=/home/lilongfei/work/miuicamera-builder
 export ANDROID_HOME=/home/lilongfei/Android/Sdk
@@ -40,3 +42,4 @@ alias adbre="adb remount"
 alias adbdv="adb disable-verity"
 alias adbrbb="adb reboot bootloader"
 alias adbrb="adb reboot"
+```
